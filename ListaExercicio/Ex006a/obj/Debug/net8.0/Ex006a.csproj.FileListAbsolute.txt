@@ -1,0 +1,15 @@
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\bin\Debug\net8.0\Ex006a.exe
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\bin\Debug\net8.0\Ex006a.deps.json
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\bin\Debug\net8.0\Ex006a.runtimeconfig.json
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\bin\Debug\net8.0\Ex006a.dll
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\bin\Debug\net8.0\Ex006a.pdb
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.AssemblyInfo.cs
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.sourcelink.json
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.dll
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\refint\Ex006a.dll
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.pdb
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\Ex006a.genruntimeconfig.cache
+C:\Users\autologon\Desktop\Dev_Soft_Visual\ListaExercicio\Ex006a\obj\Debug\net8.0\ref\Ex006a.dll
