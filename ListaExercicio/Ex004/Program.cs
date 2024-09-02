@@ -3,8 +3,9 @@
 class Program
 {
     static void Main(){
+
         Console.WriteLine("Digite o seu nome: ");
-        string nome = Console.ReadLine();
+        string nome = Console.ReadLine() ?? "Desconhecido"; // Usa "Desconhecido" se nome for null
 
         Console.WriteLine("Digite a sua idade: ");
         int idade = Convert.ToInt32(Console.ReadLine());
