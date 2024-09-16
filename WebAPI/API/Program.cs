@@ -30,7 +30,7 @@ List<Produto> produtos = new List<Produto>
 app.MapGet("/", () => "API de Produtos");
 
 //GET: /api/produto/listar
-app.MapGet("/api/produto/listar", () => 
+app.MapGet("/api/produto/listar", () =>
 {
      return produtos;
 });
@@ -45,10 +45,6 @@ app.MapPost("/api/produto/cadastrar/{nome}", (string nome) =>
 });
 
 app.Run();
-
-//Exercicios para a próxima aula
-// - Criar um endpoint para receber informação pela URL.
-// - Criar um endpoint para receber informação pelo Corpo.
 
 //Java
 //Produto produto = new Produto();
@@ -66,4 +62,5 @@ app.Run();
 //Retrieve -   Select  -  Get
 //Update   -   Update  -  Put/Patch
 //Delete   -   Delete  -  Delete
+
 
