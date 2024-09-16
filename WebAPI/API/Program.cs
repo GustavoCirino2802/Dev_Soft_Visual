@@ -25,6 +25,7 @@ List<Produto> produtos = new List<Produto>
 
 //Endpoints - Funcionalidades
 //Requisição - URL e método/verbo HHTP
+//Resposta - Dados (json/xml) e 
 
 //GET: /
 app.MapGet("/", () => "API de Produtos");
@@ -32,7 +33,11 @@ app.MapGet("/", () => "API de Produtos");
 //GET: /api/produto/listar
 app.MapGet("/api/produto/listar", () =>
 {
-     return produtos;
+     if(produtos.Count > 0)
+     {
+          return Results.Ok(produtos);
+     }
+     return Results.NotFound();
 });
 
 //POST: /api/produto/cadastrar/nome_param
